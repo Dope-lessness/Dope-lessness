@@ -33,7 +33,7 @@
 
 name: 'Build and Deploy to GKE'
 
-on:i
+on:if
   push:
     branches:
       - '"main"'
